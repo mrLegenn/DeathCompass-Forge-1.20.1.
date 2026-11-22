@@ -8,3 +8,7 @@ O GitHub Actions executa `gradle build` ao enviar alterações para `main` e pub
 Abra **Actions**, selecione **Build Death Compass (Forge 1.20.1)** e baixe o artefato `DeathCompass-Forge-1.20.1` quando a execução terminar.
 
 > Este projeto ainda precisa passar por compilação e testes dentro do Minecraft antes de ser considerado pronto.
+
+
+## Build status
+The project is being compiled by GitHub Actions. The generated JAR is not considered release-ready until the workflow succeeds and the mod is tested in Minecraft.
